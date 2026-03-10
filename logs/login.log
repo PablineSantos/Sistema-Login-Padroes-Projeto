@@ -1,0 +1,30 @@
+2026-02-10T14:24:15.142587600 | usuário=admin | resultado=SUCESSO
+2026-02-10T14:25:36.352834200 | usuário=admin | resultado=SUCESSO
+2026-02-10T14:25:38.688285900 | usuário=admin | resultado=SUCESSO
+2026-02-10T14:25:47.468038900 | usuário=admin | resultado=SUCESSO
+2026-02-10T14:28:16.585195 | usuário=admin | resultado=SUCESSO
+2026-02-10T14:28:23.749026400 | usuário=aaa | resultado=FALHA
+2026-02-10T14:28:35.410895800 | usuário=adimin | resultado=FALHA
+2026-02-10T14:30:08.803958400 | usuário=adimin | resultado=FALHA
+2026-02-10T14:30:22.718856800 | usuário=adimin | resultado=FALHA
+2026-02-10T14:30:57.317180 | usuário=admin | resultado=SUCESSO
+2026-02-12T14:25:44.831679200 | usuário=admin | resultado=SUCESSO
+2026-02-12T14:25:53.494684400 | usuário=add | resultado=FALHA
+2026-02-12T14:25:59.909910800 | usuário=www | resultado=FALHA
+2026-02-12T17:29:01.223122400Z | usuário=www | resultado=FALHA
+2026-02-12T17:29:14.575955300Z | usuário=adimin | resultado=FALHA
+2026-02-12T17:29:24.058435800Z | usuário=admin | resultado=SUCESSO
+2026-02-20T22:17:19.431832400Z | usuário=admin | resultado=SUCESSO
+2026-02-20T22:21:02.294240300Z | usuário=java | resultado=FALHA
+2026-02-20T22:21:36.160629200Z | usuário=mario | resultado=FALHA
+2026-02-20T22:21:53.093003100Z | usuário=admin | resultado=SUCESSO
+2026-02-24T12:54:36.118914800Z | usuário=pabline | resultado=FALHA | info=Login falhou, usuário ou senha inválidos
+2026-02-24T12:55:59.087093Z | usuário=pabline | resultado=FALHA | info=Login falhou, usuário ou senha inválidos
+2026-02-24T13:07:07.896194300Z | usuário=pabline | resultado=SUCESSO | info=Cadastro realizado com sucesso
+2026-02-24T13:07:19.211702100Z | usuário=pabline | resultado=FALHA | info=Login falhou, usuário ou senha inválidos
+2026-02-24T13:09:00.708498900Z | usuário=pabline | resultado=SUCESSO | info=Login realizado com sucesso
+2026-02-24T13:09:56.215593800Z | usuário=Pamela | resultado=SUCESSO | info=Cadastro realizado com sucesso
+2026-02-27T23:28:37.336932700Z | usuário=pabline | resultado=FALHA | info=Cadastro realizado falhou, usuário já existe
+2026-02-27T23:28:48.686590400Z | usuário=Loga | resultado=SUCESSO | info=Cadastro realizado com sucesso
+2026-02-27T23:29:03.225516700Z | usuário=Loga | resultado=FALHA | info=Login falhou, usuário ou senha inválidos
+2026-02-27T23:29:45.987319700Z | usuário=Loga | resultado=FALHA | info=Login falhou, usuário ou senha inválidos
